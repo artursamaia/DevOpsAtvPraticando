@@ -1,6 +1,7 @@
 # AllBooks
 
-Projeto teste sobre desenvolvimento de um software capaz de realizar a condução de energia atraves de condução para uma bateria de carro
+Projeto teste sobre desenvolvimento de um software capaz de realizar a condução de energia atraves de condução para uma bateria generica
+Mudança de planos, agora o novo projeto vai ser capaz de carregar multiplas baterias de forma simultanea.
 
 # JSONServer + JWT Auth
 
