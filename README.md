@@ -1,9 +1,6 @@
 # AllBooks
 
-Seja bem vindo a API do AllBooks!
-
-O AllBooks é uma loja virtual que vende livros da Casa do Código. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
+Projeto teste sobre desenvolvimento de um software capaz de realizar a condução de energia atraves de condução para uma bateria de carro
 
 # JSONServer + JWT Auth
 
