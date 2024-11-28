@@ -20,5 +20,6 @@ server.use(router) //rotas na prota 3000
 server.listen(8000, () => {
   console.log("Hello Artur's World")
   console.log("Alteração Simples na branch Develop seguindo o esquema do Git Flow")
+  console.log("Implementando mais uma linha de codigo para fazer o merge de tudo na branch release")
   console.log("API disponível em http://localhost:8000")
 })
