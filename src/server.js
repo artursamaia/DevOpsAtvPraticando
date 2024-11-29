@@ -19,5 +19,6 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("Alteração direto no tronco sem a utlização de uma branch")
+  console.log("Alteração realizada pelo git hub")
   console.log("API disponível em http://localhost:8000")
 })
