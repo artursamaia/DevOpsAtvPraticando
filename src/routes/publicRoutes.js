@@ -17,7 +17,7 @@ server.post('/registrar', async (req, res) => {
     }
 
     fs.readFile("Configurar./src/data/usuarios.json", (err, data) => {
-        if (err) {
+          if (err) {
             const status = 401
             console.log(err)
             const message = err
