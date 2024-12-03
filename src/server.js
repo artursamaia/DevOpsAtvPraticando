@@ -21,5 +21,5 @@ server.listen(8000, () => {
   console.log("Alteração direto no tronco sem a utlização de uma branch")
   console.log("Testando novo modelo de merge")
   console.log("Alteração realizada pelo VS Code")
-  console.log("API disponível em http://localhost:8000")
+  console.log("API em http://localhost:8000")
 })
